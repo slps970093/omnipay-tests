@@ -5,9 +5,6 @@
     "keywords": ["omnipay"],
     "homepage": "https://github.com/thephpleague/omnipay-tests",
     "license": "MIT",
-    "replace": {
-        "omnipay/tests": "^4.1"
-    },
     "authors": [
         {
             "name": "Adrian Macneil",
